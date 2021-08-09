@@ -6,5 +6,13 @@
 	{
 		"SourceRealtiveURL":"gajendrakrishna/adftraining/main/hospital_admissions.csv",
 		"SinkFileName":"hospital_admissions.csv"
+	},
+	{
+		"SourceRealtiveURL":"gajendrakrishna/adftraining/main/country_response.csv",
+		"SinkFileName":"country_response.csv"
+	},
+	{
+		"SourceRealtiveURL":"gajendrakrishna/adftraining/main/testing.csv",
+		"SinkFileName":"testing.csv"
 	}
 ]
